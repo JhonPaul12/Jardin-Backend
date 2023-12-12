@@ -6,6 +6,7 @@ const dbConfig = {
     USER: db_USER,
     PASSWORD: db_PASSWORD,
     DB: db_NAME,
+    port: 3036,
     dialect: 'mysql',
     
     pool: {
